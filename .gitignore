@@ -1,0 +1,4 @@
+# 仕事の下書き(未レビュー)は絶対にpushしない
+work/_staging/*
+!work/_staging/_template.md
+!work/_staging/.gitkeep
